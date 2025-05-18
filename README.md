@@ -285,6 +285,12 @@ python run.py --execution-provider openvino
 
 ## Usage
 
+1. powershell administer olarak başlat
+2. cd C:\Deep-Live-Cam
+3. venv\Scripts\activate
+4. python run.py --execution-provider cuda
+
+
 **1. Image/Video Mode**
 
 -   Execute `python run.py`.
